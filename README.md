@@ -1,4 +1,4 @@
-# bogobot_v2
+# Bogobot v2
 Manual del robot humanoide: Bogobot v2
 
 ## Información general
