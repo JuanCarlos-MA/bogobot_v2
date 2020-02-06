@@ -8,10 +8,10 @@ El robot humanoide Bogobot es un desarrollo creado en el Tecnológico de Monterr
     <table>
 	    <tr>
     	    <td style="padding:5px">
-        	    <img src="Anexos/Frontal.jpeg">
+        	    <img width="98%" src="Anexos/Frontal.jpeg">
       	    </td>
             <td style="padding:5px">
-            	<img src="Anexos/Trasera.jpeg">
+            	<img width="100%" src="Anexos/Trasera.jpeg">
              </td>
         </tr>
     </table>
