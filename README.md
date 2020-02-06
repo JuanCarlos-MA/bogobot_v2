@@ -50,10 +50,10 @@ En su interior cuenta dos tarjetas principales, las cuáles se utilizan para los
     <table>
 	    <tr>	
     	    <td align="center" valign="center" style="padding:5px">
-        	<img src="Anexos/tarjeta_uno.jpeg">
+        	<img src="Anexos/tarjeta_uno.png">
       	    </td>
             <td align="center" valign="center" style="padding:5px">
-            	<img src="Anexos/tarjeta_dos.jpeg">
+            	<img src="Anexos/tarjeta_dos.png">
              </td>
         </tr>
     </table>
