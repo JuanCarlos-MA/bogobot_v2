@@ -4,6 +4,19 @@ Manual del robot humanoide: Bogobot v2
 # Información general
 El robot humanoide Bogobot es un desarrollo creado en el Tecnológico de Monterrey Campus Estado de México a lo largo de los años, el cuál ha sufrido constantes cambios y actualizaciones en pro de un mejor desempeño en competencias, así como para el aprendizaje de los estudiantes que interactuan con él.
 
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:5px">
+        	    <img src="Anexos/Frontal.jpeg">
+      	    </td>
+            <td style="padding:5px">
+            	<img src="Anexos/Trasera.jpeg">
+             </td>
+        </tr>
+    </table>
+</div>
+
 ## Elementos principales
   * Cámara [Microsoft LifeCam Studio](https://www.microsoft.com/accessories/es-es/products/webcams/lifecam-studio/q2f-00009)
   * Minicomputadora [Fitlet-i](https://www.fit-pc.com/web/products/fitlet/fitlet-i/)
@@ -18,7 +31,14 @@ El robot humanoide Bogobot es un desarrollo creado en el Tecnológico de Monterr
     * No. de Celdas - 2
     * Tasa de descarga - 25C
     * Nomenclatura - 2SP
-    
+
+## Estructura
+El Bogobot cuenta con 18 motores Dynamixel distribuidos en su tronco, piernas, brazos y su cabeza, se muestra un diagrama con los ID's de los motores.
+
+<p align="center">
+  <img width="650" length="250" src="Anexos/MotoresDiag.jpeg">
+</p>
+
 ## Software
 Para el funcionamiento del Bogobot, se utiliza el sistema operativo Ubuntu 16.04 y ROS (C++), con el fin de una mayor eficiencia en el desempeño general del robot. Para conocer más acerca de Ubuntu, se recomienda leer a detalle la documentació
 n oficial [1], así como ROS Kinetic, el cuál su información se puede encontrar en la siguiente referencia [2].
