@@ -46,6 +46,20 @@ El Bogobot cuenta con 18 motores Dynamixel distribuidos en su tronco, piernas, b
 
 En su interior cuenta dos tarjetas principales, las cuáles se utilizan para los motores (BUS), alimentación, sensores, interfaces, etc. A continuación de muestran los diagramas de dichas tarjetas.
 
+<div id="image-table">
+    <table>
+	    <tr>	
+    	    <td align="center" valign="center" style="padding:5px">
+        	<img src="Anexos/tarjeta_uno.jpeg">
+      	    </td>
+            <td align="center" valign="center" style="padding:5px">
+            	<img src="Anexos/tarjeta_dos.jpeg">
+             </td>
+        </tr>
+    </table>
+</div>
+
+
 
 ## Software
 Para el funcionamiento del Bogobot, se utiliza el sistema operativo Ubuntu 16.04 y ROS (C++), con el fin de una mayor eficiencia en el desempeño general del robot. Para conocer más acerca de Ubuntu, se recomienda leer a detalle la documentació
