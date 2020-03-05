@@ -76,7 +76,7 @@ Se pone a disposición repositorios de programas realizados en ROS, con los cuá
 
 * [Comunicación del módulo USB-ISS y el Pololu MinIMU-9 v2 (Giroscopio, Magnetómetro y Acelerómetro)](https://github.com/JuanCarlos-MA/USB-ISS_minimu9_and_buttons)
 * [Instalación y uso de los servomotores Dynamixel](https://github.com/aaceves/example_dynamixel)
-
+* [Creación del programa Standard Pose y programas apoyo](https://github.com/JuanCarlos-MA/dymaxiel_rx28_rx24_bogobot)
 
 ## Autor
 
